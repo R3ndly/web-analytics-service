@@ -12,3 +12,8 @@ akalin8d
 ```bash
 Q1qqqqqq
 ```
+**Названия таблиц**</br>
+stocks</br>
+sales</br>
+orders</br>
+incomes</br>
